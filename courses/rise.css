@@ -1,0 +1,20 @@
+ul li {
+    font-size: 36px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2.red-text, .red-text {
+    color: red;
+}
+
+.reveal section img {
+    margin: auto;
+}
